@@ -31,7 +31,7 @@
                 </event-block>
             </sub-events>
         </event-group>
-        <event-group description="Numerica tracker that follows the fingers and report X and Y position." sid="440861087352042" title="TrackTouch">
+        <event-group description="Numerical tracker that follows the fingers and report X and Y position." sid="440861087352042" title="TrackTouch">
             <sub-events>
                 <event-block sid="9387636839424854">
                     <conditions>
